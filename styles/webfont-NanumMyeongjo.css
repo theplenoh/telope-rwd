@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'NanumMyeongjo';
+    font-weight: 800;
+    src: local('NanumMyeongjo ExtraBold'),
+         url('/webfonts/NanumMyeongjo/NanumMyeongjoExtraBold.subset.woff2') format('woff2'),
+         url('/webfonts/NanumMyeongjo/NanumMyeongjoExtraBold.subset.woff') format('woff'),
+         url('/webfonts/NanumMyeongjo/NanumMyeongjoExtraBold.subset.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'NanumMyeongjo';
+    font-weight: 700;
+    src: local('NanumMyeongjo Bold'),
+         url('/webfonts/NanumMyeongjo/NanumMyeongjoBold.subset.woff2') format('woff2'),
+         url('/webfonts/NanumMyeongjo/NanumMyeongjoBold.subset.woff') format('woff'),
+         url('/webfonts/NanumMyeongjo/NanumMyeongjoBold.subset.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'NanumMyeongjo';
+    font-weight: 400;
+    src: local('NanumMyeongjo'),
+         url('/webfonts/NanumMyeongjo/NanumMyeongjo.subset.woff2') format('woff2'),
+         url('/webfonts/NanumMyeongjo/NanumMyeongjo.subset.woff') format('woff'),
+         url('/webfonts/NanumMyeongjo/NanumMyeongjo.subset.otf') format('opentype')
+}

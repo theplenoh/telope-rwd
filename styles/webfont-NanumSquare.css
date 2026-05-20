@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'NanumSquare';
+    font-weight: 800;
+    src: local('NanumSquare ExtraBold'),
+         url('/webfonts/NanumSquare/NanumSquareEB.subset.woff2') format('woff2'),
+         url('/webfonts/NanumSquare/NanumSquareEB.subset.woff') format('woff'),
+         url('/webfonts/NanumSquare/NanumSquareEB.subset.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'NanumSquare';
+    font-weight: 700;
+    src: local('NanumSquare Bold'),
+         url('/webfonts/NanumSquare/NanumSquareB.subset.woff2') format('woff2'),
+         url('/webfonts/NanumSquare/NanumSquareB.subset.woff') format('woff'),
+         url('/webfonts/NanumSquare/NanumSquareB.subset.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'NanumSquare';
+    font-weight: 400;
+    src: local('NanumSquare Regular'),
+         url('/webfonts/NanumSquare/NanumSquareR.subset.woff2') format('woff2'),
+         url('/webfonts/NanumSquare/NanumSquareR.subset.woff') format('woff'),
+         url('/webfonts/NanumSquare/NanumSquareR.subset.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'NanumSquare';
+    font-weight: 300;
+    src: local('NanumSquare Light'),
+         url('/webfonts/NanumSquare/NanumSquareL.subset.woff2') format('woff2'),
+         url('/webfonts/NanumSquare/NanumSquareL.subset.woff') format('woff'),
+         url('/webfonts/NanumSquare/NanumSquareL.subset.otf') format('opentype')
+}
