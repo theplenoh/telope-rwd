@@ -4,8 +4,6 @@
 @import url("/styles/reset.css");
 /*** =Webfonts ***/
 @import url("/styles/webfont-NanumSquare.css");
-@import url("/styles/webfont-NanumMyeongjo.css");
-@import url("/styles/webfont-NanumBarunGothic.css");
 @import url("/styles/webfont-Pretendard.css");
 /*** =Only applied to IE11 ***/
 @import url("/styles/ie11-patch.css");
