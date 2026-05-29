@@ -31,6 +31,15 @@
         color: inherit;
     }
 
+    a {
+        color: inherit;
+        text-decoration: inherit;
+    }
+    a {
+        color: #4c89c6;
+        text-decoration: underline;
+    }
+
 /******************************
  =Typography
  ******************************/
