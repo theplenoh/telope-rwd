@@ -112,6 +112,9 @@
     #masthead .logo {
         padding-top: 27px;
     }
+    #masthead .gnb {
+        display: none;
+    }
 /* END::#masthead */
 
 /******************************
