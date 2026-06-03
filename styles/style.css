@@ -100,10 +100,16 @@
         background: #fff;
     }
 /* END::body */
-/* BEGIN::#header */
-    #header {
+/* BEGIN::#masthead */
+    #masthead {
+        background: transparent url('/images/header-bg.png') 50% 0 repeat-x;
     }
-/* END::#header */
+    #masthead .wrap-inner {
+        background: transparent url('/images/header-bg.png') repeat-x;
+        background-position-y: 50%;
+        background-position-x: 0;
+    }
+/* END::#masthead */
 
 /******************************
  =Animations
