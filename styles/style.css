@@ -52,6 +52,15 @@
 /******************************
  =Layout
  ******************************/
+    #masthead {
+        width: 100%;
+    }
+    #masthead > .wrap-inner {
+        position: relative;
+        width: 960px;
+        height: 110px;
+        margin: 0 auto;
+    }
 
 /******************************
  =Modules
