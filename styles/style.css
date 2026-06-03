@@ -45,9 +45,11 @@
  =Typography
  ******************************/
     body {
-        font-family: 'Pretendard', sans-serif;
+        font-family: 'Pretendard', 'Noto Sans' sans-serif;
+        font-size: 14px;
         font-weight: 400;
         line-height: 1.0;
+        color: #666;
     }
 
     #masthead {
