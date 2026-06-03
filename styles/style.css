@@ -5,6 +5,7 @@
 /*** =Webfonts ***/
 @import url("/styles/webfont-NanumSquare.css");
 @import url("/styles/webfont-Pretendard.css");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 /*** =Only applied to IE11 ***/
 @import url("/styles/ie11-patch.css");
 
@@ -56,6 +57,12 @@
     #masthead a {
         color: inherit;
         text-decoration: none;
+    }
+    #masthead h1 {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 44px;
     }
 
 /******************************
