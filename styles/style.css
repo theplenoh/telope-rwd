@@ -109,6 +109,9 @@
         background-position-y: 50%;
         background-position-x: 0;
     }
+    #masthead .logo {
+        padding-top: 27px;
+    }
 /* END::#masthead */
 
 /******************************
