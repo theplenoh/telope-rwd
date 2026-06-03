@@ -115,6 +115,20 @@
     #masthead .gnb {
         display: none;
     }
+    #masthead .links {
+        position: absolute;
+        top: 0;
+        right: 0;
+        padding-top: 71px;
+    }
+    #masthead .links > ul {
+        display: flex;
+    }
+    #masthead .links > ul > li > a {
+        display: block;
+        padding: 6px 6.5px;
+        text-transform: uppercase;
+    }
 /* END::#masthead */
 
 /******************************
