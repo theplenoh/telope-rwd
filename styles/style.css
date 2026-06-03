@@ -49,6 +49,15 @@
         line-height: 1.0;
     }
 
+    #masthead {
+        font-size: 13px;
+        color: #fff;
+    }
+    #masthead a {
+        color: inherit;
+        text-decoration: none;
+    }
+
 /******************************
  =Layout
  ******************************/
