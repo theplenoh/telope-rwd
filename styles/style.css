@@ -153,6 +153,14 @@
             padding-top: 12px;
             padding-left: 15px;
         }
+        #masthead .gnb {
+            display: block;
+            position: absolute;
+            top: 0;
+            right: 0;
+            width: 70px;
+            height: 80px;
+        }
         #masthead .links {
             position: absolute;
             width: 1px;
