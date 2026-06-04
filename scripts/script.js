@@ -5,9 +5,15 @@ function bpSmall() {
         jQuery("#gnb").toggleClass("open");
     });
     */
+    jQuery("#masthead .gnb .btn-menu").on("click", function() {
+        alert(".btn-menu clicked!!");
+    });
 }
 function bpMedium() {
     //console.log("bpMedium() called");
+    jQuery("#masthead .gnb .btn-menu").on("click", function() {
+        alert(".btn-menu clicked!!");
+    });
 }
 function bpLarge() {
     //console.log("bpLarge() called");
@@ -25,7 +31,7 @@ jQuery(document).ready(function() {
     }
 
     jQuery(window).resize(function() {
-        //jQuery("#gnb *").off();
+        jQuery("#masthead .gnb *").off();
         if(jQuery(window).width() <= 640) {
             bpSmall();
         }
