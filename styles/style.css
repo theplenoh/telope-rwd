@@ -96,6 +96,9 @@
         height: 110px;
         margin: 0 auto;
     }
+    #masthead .gnb {
+        display: none;
+    }
     @media screen and (max-width: 810px) {
         #masthead > .wrap-inner {
             width: 100%;
@@ -126,9 +129,6 @@
     }
     #masthead .logo {
         padding-top: 27px;
-    }
-    #masthead .gnb {
-        display: none;
     }
     #masthead .links {
         position: absolute;
