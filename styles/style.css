@@ -148,6 +148,11 @@
         #masthead > .wrap-inner {
             background-position-y: calc(50% + 10px);
         }
+        #masthead .logo {
+            flex-shrink: 0;
+            padding-top: 12px;
+            padding-left: 15px;
+        }
     }
 /* END::#masthead */
 
