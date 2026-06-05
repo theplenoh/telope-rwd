@@ -234,6 +234,6 @@
  ******************************/
 
 /*** =Scaffolding ***/
-#footer, #sidebar-overlay {
+#sidebar, #footer, #sidebar-overlay {
     display: none;
 }
