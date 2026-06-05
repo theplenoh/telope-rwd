@@ -89,6 +89,7 @@
     }
     #content .post-entry h2 {
         font-size: 20px;
+        font-weight: 500;
         color: #333;
     }
     #content .post-entry-body p {
