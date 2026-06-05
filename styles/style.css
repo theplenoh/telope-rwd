@@ -255,6 +255,12 @@
         font-family: 'Noto Sans', sans-serif;
         font-size: 0.95em;
     }
+    #content .post-entry-mgmt ul > * {
+        display: inline-block;
+    }
+    #content .post-entry-mgmt li {
+        margin-right: 0.25em;
+    }
 /* END::#content */
 
 /******************************
