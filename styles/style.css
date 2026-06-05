@@ -226,6 +226,6 @@
  ******************************/
 
 /*** =Scaffolding ***/
-#container, #footer, #sidebar-overlay {
+#footer, #sidebar-overlay {
     display: none;
 }
