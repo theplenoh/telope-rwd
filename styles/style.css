@@ -97,6 +97,10 @@
         line-height: 1.6;
     }
 
+    #sidebar {
+        font-family: 'Pretendard', sans-serif;
+    }
+
 /******************************
  =Layout
  ******************************/
