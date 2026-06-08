@@ -289,6 +289,10 @@
         margin-right: 0.25em;
     }
 /* END::#content */
+/* BEGIN::#sidebar */
+    #sidebar {
+    }
+/* END::#sidebar */
 
 /******************************
  =Animations
