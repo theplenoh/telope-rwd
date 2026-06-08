@@ -3,7 +3,7 @@ function bpSmall() {
     jQuery("#masthead .gnb .btn-menu").on("click", function() {
         jQuery("#sidebar").show();
     });
-    jQuery("#masthead .ctrl .btn-close").on("click", function() {
+    jQuery("#sidebar .ctrl .btn-close").on("click", function() {
         jQuery("#sidebar").hide();
     });
 }
