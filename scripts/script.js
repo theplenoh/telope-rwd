@@ -1,10 +1,10 @@
 function bpSmall() {
     //console.log("bpSmall() called");
     jQuery("#masthead .gnb .btn-menu").on("click", function() {
-        jQuery("#sidebar").show();
+        jQuery("#sidebar, #sidebar-overlay").show();
     });
     jQuery("#sidebar .ctrl .btn-close").on("click", function() {
-        jQuery("#sidebar").hide();
+        jQuery("#sidebar, #sidebar-overlay").hide();
     });
 }
 function bpMedium() {
