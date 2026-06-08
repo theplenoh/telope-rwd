@@ -296,6 +296,10 @@
     #sidebar .ctrl {
         display: none;
     }
+    #sidebar .pages li > a {
+        display: inline-block;
+        padding: 5px 0;
+    }
 /* END::#sidebar */
 
 /******************************
