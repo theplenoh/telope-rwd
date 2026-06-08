@@ -157,6 +157,11 @@
 /******************************
  =Modules
  ******************************/
+    .description {
+        font-size: 11px;
+        line-height: 1.2;
+    }
+
     .post-entry {
         margin-bottom: 40px;
     }
