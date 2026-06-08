@@ -1,10 +1,5 @@
 function bpSmall() {
     //console.log("bpSmall() called");
-    /*
-    jQuery("#gnb .btn-menu").on("click", function() {
-        jQuery("#gnb").toggleClass("open");
-    });
-    */
     jQuery("#masthead .gnb .btn-menu").on("click", function() {
         jQuery("#sidebar").show();
     });
