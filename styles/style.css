@@ -335,6 +335,25 @@
             top: 0;
             right: 0;
         }
+        #sidebar .ctrl {
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            height: 80px;
+        }
+        #sidebar .ctrl a {
+            position: absolute;
+            display: block;
+            width: 28px;
+            height: 28px;
+            margin-top: 3px;
+            margin-right: 5px;
+        }
+        #sidebar .ctrl a img {
+            width: 28px;
+            height: auto;
+            padding: 3.5px;
+        }
     }
 /* END::#sidebar */
 
