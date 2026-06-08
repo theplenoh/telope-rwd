@@ -293,6 +293,9 @@
     #sidebar {
         background-color: #f7f7f7;
     }
+    #sidebar .ctrl {
+        display: none;
+    }
 /* END::#sidebar */
 
 /******************************
