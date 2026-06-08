@@ -6,7 +6,7 @@ function bpSmall() {
     });
     */
     jQuery("#masthead .gnb .btn-menu").on("click", function() {
-        alert(".btn-menu clicked!!");
+        jQuery("#sidebar").show();
     });
 }
 function bpMedium() {
