@@ -10,7 +10,10 @@ function bpSmall() {
 function bpMedium() {
     //console.log("bpMedium() called");
     jQuery("#masthead .gnb .btn-menu").on("click", function() {
-        alert(".btn-menu clicked!!");
+        jQuery("#sidebar, #sidebar-overlay").show();
+    });
+    jQuery("#sidebar .ctrl .btn-close, #sidebar-overlay").on("click", function() {
+        jQuery("#sidebar, #sidebar-overlay").hide();
     });
 }
 function bpLarge() {
