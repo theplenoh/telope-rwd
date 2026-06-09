@@ -21,10 +21,10 @@ function bpLarge() {
 }
 
 jQuery(document).ready(function() {
-    if(jQuery(window).width() <= 640) {
+    if(jQuery(window).width() <= 810) {
         bpSmall();
     }
-    else if(641 <= jQuery(window).width() && jQuery(window).width() <= 1024) {
+    else if(811 <= jQuery(window).width() && jQuery(window).width() <= 1024) {
         bpMedium();
     }
     else {
@@ -33,10 +33,10 @@ jQuery(document).ready(function() {
 
     jQuery(window).resize(function() {
         jQuery("#masthead .gnb *").off();
-        if(jQuery(window).width() <= 640) {
+        if(jQuery(window).width() <= 810) {
             bpSmall();
         }
-        else if(641 <= jQuery(window).width() && jQuery(window).width() <= 1024) {
+        else if(811 <= jQuery(window).width() && jQuery(window).width() <= 1024) {
             bpMedium();
         }
         else {
