@@ -390,6 +390,10 @@
     }
 /* END::#sidebar */
 /* BEGIN::#footer */
+    #footer address {
+        line-height: 30px;
+        text-align: center;
+    }
 /* END::#footer */
 
 /******************************
