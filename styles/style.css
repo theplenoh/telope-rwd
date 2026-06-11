@@ -391,7 +391,8 @@
 /* END::#sidebar */
 /* BEGIN::#footer */
     #footer address {
-        line-height: 30px;
+        padding: 10px 15px;
+        line-height: 15px;
         text-align: center;
     }
 /* END::#footer */
