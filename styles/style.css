@@ -85,7 +85,7 @@
     }
 
     #content .post-entry {
-        font-family: 'Open Sans', 'Pretendard', sans-serif;
+        font-family: -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Open Sans', 'Pretendard Variable', Pretendard, Roboto, 'Noto Sans KR', 'Segoe UI', 'Malgun Gothic', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', sans-serif;
     }
     #content .post-entry h2 {
         font-size: 20px;
