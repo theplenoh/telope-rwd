@@ -1,9 +1,9 @@
 @charset "UTF-8";
 
 /*** =CSS Reset ***/
-@import url("/styles/reset.css");
+@import url('/styles/reset.css');
 /*** =Webfonts ***/
-@import url("/webfonts/webfont-Pretendard.css");
+@import url('/webfonts/webfont-Pretendard.css');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 /*** =Only applied to IE11 ***/
