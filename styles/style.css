@@ -272,36 +272,15 @@
         }
         #masthead .gnb .btn-menu > span {
             position: absolute;
-            top: 0;
+            top: 50%;
             left: 50%;
-            width: 24px;
-            height: 3px;
-            margin-top: 25px;
-            margin-left: -12px;
-            background-color: #fff;
+            display: block;
             font-size: 0;
-        }
-        #masthead .gnb .btn-menu > span::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 50%;
-            width: 24px;
-            height: 3px;
+            width: 30px;
+            height: 30px;
             margin-top: -7px;
             margin-left: -12px;
-            background-color: #fff;
-        }
-        #masthead .gnb .btn-menu > span::after {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 50%;
-            width: 24px;
-            height: 3px;
-            margin-top: 7px;
-            margin-left: -12px;
-            background-color: #fff;
+            background: transparent url('/images/btn-three-line.png') 0 0/24px 17px no-repeat;
         }
     }
 /* END::#masthead */
