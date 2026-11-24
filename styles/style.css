@@ -94,6 +94,9 @@
         font-weight: 500;
         color: #333;
     }
+    #content .post-entry-body {
+        color: #4a4a4a;
+    }
 
     #content .post-entry-body p {
         margin: 1.0em 0;
